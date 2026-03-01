@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Sword!
 
-<!--
-**TheStabbedSword/TheStabbedSword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my page.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I build things with code
+- 🎮 Interested in game development
+- 🧠 Always learning something new
+- 🌍 Based in Türkiye
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** Haxe, Lua, JavaScript
+- **Frameworks:** HaxeFlixel
+- **Tools:** Git, VS Code
+
+## 📂 Featured Projects
+
+### FNF Projects
+Custom mechanics, note logic, UI work, and gameplay systems.
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=TheStabbedSword&show_icons=true&theme=dark)
+
+---
+
+## 📫 Contact
+- Discord: thestabbedsword
+
+---
+
+> “Im just a dead corpse rotting...”
