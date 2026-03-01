@@ -20,11 +20,6 @@ Custom mechanics, note logic, UI work, and gameplay systems.
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=TheStabbedSword&show_icons=true&theme=dark)
-
----
-
 ## 📫 Contact
 - Discord: thestabbedsword
 
